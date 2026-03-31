@@ -1,7 +1,3 @@
-Aqui tens uma sugestão de README focada no teu projeto, destacando a inspiração no jogo do dinossauro e as tecnologias que utilizaste (HTML, CSS e JavaScript), de forma clara e organizada.
-
------
-
 # Mario Jump 🍄
 
 Este é um projeto simples desenvolvido para fins académicos, inspirado no famoso "Dino Run" (o jogo do dinossauro do Google Chrome). O objetivo foi recriar a mecânica de desvio de obstáculos, mas com uma temática personalizada do universo **Super Mario**.
