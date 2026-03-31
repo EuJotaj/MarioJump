@@ -28,5 +28,7 @@ MarioJump/
 ├── index.html      # Estrutura do jogo
 ├── style.css       # Estilização e animações
 └── script.js      # Lógica e mecânicas
+
+
 📸 Demonstração
  ![Mario](https://github.com/user-attachments/assets/7825af51-3fa6-42c4-ba8f-98d809c85da7)
